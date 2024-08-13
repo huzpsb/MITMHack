@@ -11,7 +11,7 @@ like [CAC-Public](https://github.com/Luohuayu/CatAntiCheat-Public/), CiYuan-Free
 This tool wants to raise awareness that, screensharing, client-side anti-cheat, and other methods are NOT effective in
 preventing cheating; the only effective way to prevent cheating is to have a server-side anti-cheat. It is unfair and
 irresponsible to normal players if you host an event without a server-side anti-cheat, even if you have a client-side
-one, or required participants to stream.
+one, or required participants to stream. (You don't have to fly, make it reach-only, or 1.05x speed etc.)
 
 ### 0x01 Setup
 
